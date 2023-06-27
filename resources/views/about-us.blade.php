@@ -15,21 +15,10 @@
                         <img src="{{ asset('images/home-img-2.png') }}" alt="" />
                     </div>
                     <p><b>
-                            Lorem ipsum dolor sit amet consectetur. Adipiscing vel varius nam a aliquet sed aliquam eu.
-                            Enim
-                            sed non duis in tincidunt. Posuere eu quis odio ju.</b></p>
+                            The ability to identify, access and sustain available local, national, regional and international resources (Human, material and financial) by the Cameroon civil society organizations remain a major challenge fueled by a number of internal and external factors</b></p>
                     <p>
-                        Duis et nisl at tellus nisl. Venenatis suscipit posuere diam orci ornare habitasse. Eget sem sed
-                        aliquet ultrices enim viverra velit. Dolor dapibus tincidunt risus id. Enim in egestas nibh
-                        risus
-                        ullamcorper sapien. Eleifend tellus tristique mi lorem. Ipsum tempus dictumst platea amet at vel
-                        est
-                        felis volutpat. Vulputate condimentum sit neque ullamcorper egestas. Iaculis molestie aliquam
-                        quis
-                        elementum erat risus. Bibendum risus purus nullam sed bibendum lacus.</p>
-                    <p>Duis tempus diam eu pretium purus facilisi quam. Sapien velit ante dignissim urna. Mattis
-                        praesent
-                        faucibus tellus laoreet nibh felis amet eu odio.</p>
+                        We facilitate knowledge acquisition, dialogue among and between CSOs and their networks, mutualization of resources, information sharing and promotion of fair access to resources by CSOs of all categories (levels) using the principle of need, equality and equity with the population as final beneficiaries in mind.</p>
+                
                 </div>
                 <div class="right">
                     <img src="{{ asset('images/home-img-2.png') }}" alt="" />
@@ -41,25 +30,35 @@
             <div class="con">
                 <div class="left">
                     <h1>About Us</h1>
-                    <p>tis suscipit posuere diam orci ornare habitasse. Eget sem sed aliquet ultrices enim viverra
-                        velit. Dolor dapibus tincidunt risus id. Enim in egestas nibh risus ullamcorper sapien. Eleifend
-                        tellus tristique mi lorem. Ipsum tempus dictumst platea amet at vel est felis vol</p>
+                    <p>The LUKMEF Africa Civil Society Development Centre (LACSODEC) is a Civil Society Organization (CSO) service providing agency facilitating knowledge acquisition, dialogue among and between CSOs and their networks, mutualization of resources, information sharing and promotion of fair access to resources by CSOs of all categories (levels) using the principle of need, equality and equity with the population as final beneficiaries in mind.
+LACSODEC was founded in {year} by Tanyi Christian under the LUKMEF vision for Sustainable Development and Empowerment of communities and other local civil society actors to improve on service delivery. LACSODEC is located in NGO Street, Molyko – Buea, in the SW Region of Cameroon with registration number {insert here}. 
+</p>
 
                     <ul>
                         <li>
                             <i class="fa fa-arrow-right" aria-hidden="true"></i>
                             <div class="content">
-                                <h3>Tis suscipit posuere diam</h3>
-                                <p>tis suscipit posuere diam orci ornare habitasse. Eget sem sed aliquet ultrices enim
-                                    viverra velit. Dolor dapibus tincidunt risus id. Enim in egestas nibh.</p>
+                                <h3>Why We Exist</h3>
+                                <p>The 1990 law on Associations and the 1999 Law on NGOs are the two fundamental legal instruments used by the civil society in Cameroon. 
+Within the framework of these two laws, over 55,602 organizations are registered in the books of the ministry of territorial administration at sub divisional (DO) and divisional levels (SDO) in Cameroon (Ref CSOSI-2019 by USAID).<br><br>  
+According to the National Governance Program, approximately 500,000 grassroots community organizations, private associations, common initiative groups, development committees, and economic interest groups, were thought to exist in 2019.
+</p>
                             </div>
                         </li>
                         <li>
                             <i class="fa fa-arrow-right" aria-hidden="true"></i>
                             <div class="content">
-                                <h3>Tis suscipit posuere diam</h3>
-                                <p>tis suscipit posuere diam orci ornare habitasse. Eget sem sed aliquet ultrices enim
-                                    viverra velit. Dolor dapibus tincidunt risus id. Enim in egestas nibh.</p>
+                                <h3>Past/current Initiatives to Respond</h3>
+                                <p>In recognition of the important role CSOs play in community development, many programs/projects have been initiated by Cameroon’s development partners for CSO strengthening such as:<br><br>
+	Pro-OSC (Canada)<br>
+	PASOC (EU)<br>
+	PASC (EU)<br>
+	PADDL (German)<br>
+	PRADEC (German)<br>
+	CSO specific programs of other diplomatic missions etc.<br><br>
+Such programs and projects made significant improvement in the institutional and operational of Cameroon CSOs. 
+The major shortcoming of these initiatives is the lack of a long term sustainability strategy for the results generated by such programs championed by the CSOs themselves.
+</p>
                             </div>
                         </li>
                     </ul>
@@ -80,23 +79,41 @@
             <div class="con">
                 <div class="left">
                     <h1>About Us</h1>
-                    <p>tis suscipit posuere diam orci ornare habitasse. Eget sem sed aliquet ultrices enim viverra
-                        velit. Dolor dapibus tincidunt risus id. Enim in egestas nibh risus ullamcorper sapien. Eleifend
-                        tellus tristique mi lorem. Ipsum tempus dictumst platea amet at vel est felis vol</p>
+                    <p>Human Rights has been a central pillar of LUKMEF’s work from its inception in 1999. The human rights-based approach (HRBA) is a conceptual framework for the process of human development that is derived from international human rights standards and operationally directed to promoting and protecting human rights. Using this approach, we entreat to analyze inequalities which lie at the heart of development problems and redress discriminatory practices and unjust distributions of power that impede development progress and often result in groups of people being left behind.<br><br></p>
+                    <p>The ability to identify, access and sustain available local, national, regional and international resources (Human, material and financial) by the Cameroon civil society organizations remain a major challenge fueled by a number of internal and external factors:</p>
 
                     <ul>
                         <li>
                             <i class="fa fa-arrow-right" aria-hidden="true"></i>
                             <div class="content">
-                                <h3>Tis suscipit posuere diam</h3>
+                                <h3>Internal Factors</h3>
+                                 <p><ol>
+                                     <li>Most organization founders and members have insufficient skills in varied domains of resource mobilizations;</li>
+                                     <li>The Internal governance structures of most organizations fall below the minimum compliance standards of most funding agencies;</li>
+                                     <li>Organizations are still heavily structured around family relations and a cycle of friends who may not necessarily share the vision and mission of the organization</li>
+                                     <li>Lack of clear vision and mission as well as ability to stay focused on the vision and missions continue to be a major internal challenge limiting access to resources as such fail to gain donor trust and confidence.</li>
+                                     <li>Most organizations (especially small and medium sized) often operate without well-established multi-year strategic plans and hence are quick to drift with changing national and global development thematic that will often require new skills</li>
+                                     <li>High staff turnover among national civil society resulting from their inability to continue paying salaries.</li>
+                                     <li>Reluctance of most start-up civil society organization to twin with more successful peers to gain skills and visibility without engaging in destructive competitions. </li>
+                                     <li>Lack of clearly defined administrative and financial management procedures and yearly external audits also limits access to resources</li>
+                                     <li>Founders of most organizations are too influential and do not allow space for alternative views as to how the organization should be run. This reduces the creativity of teams and reduces the organization's sustainability index that plays against them during resource mobilization.</li>
+                                 </ol></p>
                             </div>
                         </li>
                         <li>
                             <i class="fa fa-arrow-right" aria-hidden="true"></i>
                             <div class="content">
-                                <h3>Tis suscipit posuere diam</h3>
+                                <h3>External Factors</h3>
+                                <p><ol>
+                                    <li>The absence of a dedicated national institution for civil society strengthening</li>
+                                    <li>The limitations posed by the legal framework that holds back registered civil societies full enjoyment of the NGO status with accompanying tax exonerations and further access to national and international resources</li>
+                                    <li>Most funding agencies do not favor small startup organizations in their resource access criteria thereby limiting most startups ability to gain experience by doing.</li>
+                                    <li>The business environment and the Taxation policy do not encourage tax deductible corporate social responsibility that otherwise would have increased resource flow towards civil society organizations.</li>
+                                    <li>There is a very high demand for skilled staff by INGO and UN Agencies on the basis of more attractive pay packages and these staff are often drawn from the already struggling local organizations thereby further weakening these organizations as they will have to restart the whole staff recruitment and training process.</li>
+                                </ol></p>
                             </div>
                         </li>
+                    
                     </ul>
                 </div>
                 <div class="right">
@@ -105,11 +122,7 @@
                         <div class="tab">Our Vision</div>
                     </div>
                     <div class="content">
-                        <p>tis suscipit posuere diam orci ornare habitasse. Eget sem sed aliquet ultrices enim viverra
-                            velit. Dolor dapibus tincidunt risus id. Enim in egestas nibh. <br><br>
-                            tis suscipit posuere diam orci ornare habitasse. Eget sem sed aliquet ultrices enim viverra
-                            velit. Dolor dapibus tincidunt risus id. Enim in egestas nibh risus ullamcorper sapien.
-                            Eleifend tellus tristique mi lorem. Ipsum tempus dictumst platea amet at vel est felis vol
+                        <p>Our mission is to strengthen the institutional and operational capacity of CSOs, improve their operating environment in order to amplify their voices, and improve performance in addressing diverse issues of human development at local, national and regional level in West Africa and the Lake Chad Basin Countries using a rights-based approach.
                         </p>
                     </div>
                 </div>
@@ -123,33 +136,53 @@
                 <div class="team-grid">
                     <div class="member-card">
                         <img src="{{ asset('images/team/team-member-1.png') }}" alt="">
-                        <h4>Noel Nfebe</h4>
-                        <p>IT Director</p>
+                        <h4>Tanyi Christian</h4>
+                        <p>Founder and CEO</p>
                     </div>
                     <div class="member-card">
                         <img src="{{ asset('images/team/team-member-2.png') }}" alt="">
-                        <h4>Mensa Robert</h4>
-                        <p>Medical Assistant</p>
+                        <h4>Akwese Nkatmbi</h4>
+                        <p>General Manager</p>
                     </div>
                     <div class="member-card">
                         <img src="{{ asset('images/team/team-member-3.png') }}" alt="">
-                        <h4>Anisa Lulu</h4>
-                        <p>President of Sales</p>
+                        <h4>Bate Godwill Bate</h4>
+                        <p>Human Resource Manager</p>
                     </div>
                     <div class="member-card">
                         <img src="{{ asset('images/team/team-member-4.png') }}" alt="">
-                        <h4>Rebecca Funto</h4>
-                        <p>Nursing Assistant</p>
+                        <h4>Ngwathe Modest</h4>
+                        <p>Finance Manager</p>
                     </div>
                     <div class="member-card">
                         <img src="{{ asset('images/team/team-member-5.png') }}" alt="">
-                        <h4>Uzodima Chinonzo</h4>
-                        <p>Uzodima Chinonzo</p>
+                        <h4>Chita Brine</h4>
+                        <p>IT Manager</p>
                     </div>
                     <div class="member-card">
                         <img src="{{ asset('images/team/team-member-6.png') }}" alt="">
-                        <h4>Iyalode Eko</h4>
-                        <p>Dog Trainer</p>
+                        <h4>Kole Eugene</h4>
+                        <p>Logistics Manager</p>
+                    </div>
+                    <div class="member-card">
+                        <img src="{{ asset('images/team/team-member-6.png') }}" alt="">
+                        <h4>Wabo Kevin</h4>
+                        <p>MEAL Officer</p>
+                    </div>
+                    <div class="member-card">
+                        <img src="{{ asset('images/team/team-member-6.png') }}" alt="">
+                        <h4>Olive Bobga</h4>
+                        <p>Gender Expert</p>
+                    </div>
+                    <div class="member-card">
+                        <img src="{{ asset('images/team/team-member-6.png') }}" alt="">
+                        <h4>Simine Borner</h4>
+                        <p>Child Protection Expert</p>
+                    </div>
+                    <div class="member-card">
+                        <img src="{{ asset('images/team/team-member-6.png') }}" alt="">
+                        <h4>Njie Yannick</h4>
+                        <p>Security & Safety Officer</p>
                     </div>
                 </div>
             </div>
